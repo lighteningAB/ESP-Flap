@@ -1,0 +1,6 @@
+{
+    "idf.pythonInstallPath": "/Users/fanp/anaconda3/bin/python3",
+    "idf.espIdfPath": "/Users/fanp/esp/v5.4.1/esp-idf",
+    "idf.toolsPath": "/Users/fanp/.espressif",
+    "idf.flashType": "UART"
+}

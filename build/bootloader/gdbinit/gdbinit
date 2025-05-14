@@ -1,0 +1,2 @@
+source /Users/fanp/Documents/GitHub/ESP-Flap/build/bootloader/gdbinit/symbols
+source /Users/fanp/Documents/GitHub/ESP-Flap/build/bootloader/gdbinit/connect

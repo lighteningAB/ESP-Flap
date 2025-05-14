@@ -1,0 +1,13 @@
+# Target labels
+ bootloader
+# Source files and their labels
+/Users/fanp/Documents/GitHub/ESP-Flap/build/CMakeFiles/bootloader
+/Users/fanp/Documents/GitHub/ESP-Flap/build/CMakeFiles/bootloader.rule
+/Users/fanp/Documents/GitHub/ESP-Flap/build/CMakeFiles/bootloader-complete.rule
+/Users/fanp/Documents/GitHub/ESP-Flap/build/bootloader-prefix/src/bootloader-stamp/bootloader-build.rule
+/Users/fanp/Documents/GitHub/ESP-Flap/build/bootloader-prefix/src/bootloader-stamp/bootloader-configure.rule
+/Users/fanp/Documents/GitHub/ESP-Flap/build/bootloader-prefix/src/bootloader-stamp/bootloader-download.rule
+/Users/fanp/Documents/GitHub/ESP-Flap/build/bootloader-prefix/src/bootloader-stamp/bootloader-install.rule
+/Users/fanp/Documents/GitHub/ESP-Flap/build/bootloader-prefix/src/bootloader-stamp/bootloader-mkdir.rule
+/Users/fanp/Documents/GitHub/ESP-Flap/build/bootloader-prefix/src/bootloader-stamp/bootloader-patch.rule
+/Users/fanp/Documents/GitHub/ESP-Flap/build/bootloader-prefix/src/bootloader-stamp/bootloader-update.rule
